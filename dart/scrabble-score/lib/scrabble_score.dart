@@ -1,13 +1,9 @@
 // Put your code here
 
-int score(String data) {
-  int value = data.toUpperCase().split('').fold(
-      0, (previousValue, element) => previousValue + (mapValue[element] ?? 0));
+int score(String data) => data.toUpperCase().split('').fold(
+    0, (previousValue, element) => previousValue + (mapValue[element] ?? 0));
 
-  return value;
-}
-
-var mapValue = {
+final mapValue = {
   'A': 1,
   'E': 1,
   'I': 1,
