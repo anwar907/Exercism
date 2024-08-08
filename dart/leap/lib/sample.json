@@ -1,0 +1,532 @@
+{
+	"ReservationSummary" : {
+		"@xmlns:tns" : "http://com.abg.digital/schemas/Reservation",
+		"@xmlns:avs" : "http://com.abg.digital/schemas/Availability",
+		"SessionId" : "D1CC5339912B819E0406083EF7592C67.ends02dap03",
+		"SearchSummary" : {
+			"PickUp" : {
+				"Time" : "12:00",
+				"Date" : "2024-08-21",
+				"OpeningHours" : "00:00|23:59",
+				"DepotCode" : "LHR",
+				"CountryCode" : "GB",
+				"DepotName" : "London Heathrow Airport T2, T3 and T4",
+				"Address" : {
+					"Compressed" : "Central Heathrow Loc",
+					"AddressLine" : "Northrop Road",
+					"CityName" : "London",
+					"PostalCode" : "TW6 2QA",
+					"CountryName" : "United Kingdom",
+					"ContactNumber" : "03445446000",
+					"LegalEntityName" : "Avis Budget Uk Ltd"
+				},
+				"LocationSuggestion" : {
+					"@Name" : "London Heathrow Airport T2, T3 and T4",
+					"@Type" : "1",
+					"@StationCode" : "LHR",
+					"@latitude" : "51.47027777777780244150562793947756290435791015625",
+					"@longitude" : "-0.459166666666667000473722737297066487371921539306640625",
+					"@IsVirtual" : "false",
+					"@AfterHoursDrpOffSupport" : "true",
+					"@IsDeliveryAndCollection" : "false",
+					"@DefaultPickupTime" : "12:00:00",
+					"@DefaultDropOffTime" : "12:00:00",
+					"@DefaultMaxRental" : "90",
+					"@MaxRentalMessage" : "The rental period entered is greater than the maximum 90 days allowed."
+				},
+				"IsDelivery" : false,
+				"OperatingHours" : {
+					"OperatingTime" : [ {
+						"@Day" : "Sunday",
+						"@Open" : "true",
+						"@Start" : "00:00:00",
+						"@End" : "23:59:59"
+					}, {
+						"@Day" : "Monday",
+						"@Open" : "true",
+						"@Start" : "00:00:00",
+						"@End" : "23:59:59"
+					}, {
+						"@Day" : "Tuesday",
+						"@Open" : "true",
+						"@Start" : "00:00:00",
+						"@End" : "23:59:59"
+					}, {
+						"@Day" : "Wednesday",
+						"@Open" : "true",
+						"@Start" : "00:00:00",
+						"@End" : "23:59:59"
+					}, {
+						"@Day" : "Thursday",
+						"@Open" : "true",
+						"@Start" : "00:00:00",
+						"@End" : "23:59:59"
+					}, {
+						"@Day" : "Friday",
+						"@Open" : "true",
+						"@Start" : "00:00:00",
+						"@End" : "23:59:59"
+					}, {
+						"@Day" : "Saturday",
+						"@Open" : "true",
+						"@Start" : "00:00:00",
+						"@End" : "23:59:59"
+					} ]
+				},
+				"TimeZone" : "+05.00"
+			},
+			"DropOff" : {
+				"Time" : "12:00",
+				"Date" : "2024-08-31",
+				"OpeningHours" : "00:00|23:59",
+				"DepotCode" : "LHR",
+				"CountryCode" : "GB",
+				"DepotName" : "London Heathrow Airport T2, T3 and T4",
+				"Address" : {
+					"Compressed" : "Central Heathrow Loc",
+					"AddressLine" : "Northrop Road",
+					"CityName" : "London",
+					"PostalCode" : "TW6 2QA",
+					"CountryName" : "United Kingdom",
+					"ContactNumber" : "03445446000",
+					"LegalEntityName" : "Avis Budget Uk Ltd"
+				},
+				"LocationSuggestion" : {
+					"@Name" : "London Heathrow Airport T2, T3 and T4",
+					"@Type" : "1",
+					"@StationCode" : "LHR",
+					"@latitude" : "51.47027777777780244150562793947756290435791015625",
+					"@longitude" : "-0.459166666666667000473722737297066487371921539306640625",
+					"@IsVirtual" : "false",
+					"@AfterHoursDrpOffSupport" : "true",
+					"@IsDeliveryAndCollection" : "false",
+					"@DefaultPickupTime" : "12:00:00",
+					"@DefaultDropOffTime" : "12:00:00",
+					"@DefaultMaxRental" : "90",
+					"@MaxRentalMessage" : "The rental period entered is greater than the maximum 90 days allowed."
+				},
+				"IsCollection" : false,
+				"OperatingHours" : {
+					"OperatingTime" : [ {
+						"@Day" : "Sunday",
+						"@Open" : "true",
+						"@Start" : "00:00:00",
+						"@End" : "23:59:59"
+					}, {
+						"@Day" : "Monday",
+						"@Open" : "true",
+						"@Start" : "00:00:00",
+						"@End" : "23:59:59"
+					}, {
+						"@Day" : "Tuesday",
+						"@Open" : "true",
+						"@Start" : "00:00:00",
+						"@End" : "23:59:59"
+					}, {
+						"@Day" : "Wednesday",
+						"@Open" : "true",
+						"@Start" : "00:00:00",
+						"@End" : "23:59:59"
+					}, {
+						"@Day" : "Thursday",
+						"@Open" : "true",
+						"@Start" : "00:00:00",
+						"@End" : "23:59:59"
+					}, {
+						"@Day" : "Friday",
+						"@Open" : "true",
+						"@Start" : "00:00:00",
+						"@End" : "23:59:59"
+					}, {
+						"@Day" : "Saturday",
+						"@Open" : "true",
+						"@Start" : "00:00:00",
+						"@End" : "23:59:59"
+					} ]
+				},
+				"TimeZone" : "+05.00"
+			},
+			"PaymentType" : "post",
+			"WizardNumber" : "7BY812",
+			"WizardSurname" : "Dem"
+		},
+		"ReservationDetails" : {
+			"ReservationStatus" : "booked",
+			"Reservation" : {
+				"SuperPNRId" : "6BGRJNR",
+				"ReservationNumber" : "34003905GB5",
+				"ProductNumber" : 1000,
+				"MasterProductNumber" : 0,
+				"BookingDate" : "2024-08-02T11:27:27",
+				"LastModifiedDate" : "2024-08-02T11:27:27",
+				"Transaction" : "create",
+				"TransactionTimeStamp" : "2024-08-02T11:27:27"
+			},
+			"Contact" : {
+				"Prefix" : "Mr.",
+				"GivenName" : "Dem",
+				"Surname" : "Dem",
+				"Email" : "demm@mail.com",
+				"Telephone" : 7712312312,
+				"Address" : {
+					"AddressLine" : "Aadds",
+					"CityName" : "Home",
+					"PostalCode" : "1DL",
+					"CountryCode" : "GB",
+					"CountryName" : "United Kingdom",
+					"CompanyName" : "United Kingdom"
+				}
+			},
+			"Payment" : {
+				"PaymentDetails" : {
+					"PaymentDetail" : [ {
+						"MaskedCardNumber" : "495323******2279",
+						"CardType" : "VI"
+					} ]
+				},
+				"RateQualifier" : 90
+			},
+			"FrequentFlyerInfo" : null,
+			"Vehicle" : {
+				"VehFeatures" : {
+					"feature" : [ {
+						"attribute" : "Air Conditioning",
+						"value" : true,
+						"code" : "AC"
+					}, {
+						"attribute" : "Air Bag - Driver/Passenger",
+						"value" : true,
+						"code" : "AB2"
+					}, {
+						"attribute" : "Radio",
+						"value" : true,
+						"code" : "R"
+					} ]
+				},
+				"GeneralInformations" : {
+					"Information" : [ {
+						"Code" : "CREDITCARD",
+						"Requirement" : "1 payment card",
+						"Description" : "You will need to provide one payment card to hire this car. Avis accepts American Express, Eurocard/MasterCard, Visa, Discover and Diners Club. There will be an authorisation of your card at the time of the rental."
+					}, {
+						"Code" : "DRIVINGLICENSE",
+						"Requirement" : "Full Driving Licence",
+						"Description" : "You need to have held a full driving licence for at least 12 <b>MONTHS</b> at the time of rental."
+					} ]
+				},
+				"Image" : "DEFAULT.jpg",
+				"Description" : {
+					"SelectSeries" : false,
+					"IsPrestige" : false,
+					"Model" : "A Peugeot Partner Unknown",
+					"Group" : "A",
+					"VendorCarType" : "MDMR",
+					"AirConditioned" : true,
+					"Bags" : 0,
+					"DoorCount" : 5,
+					"FuelType" : "Diesel",
+					"Passengers" : 2,
+					"Size" : "Small Commercial",
+					"TypeCode" : 1,
+					"VehGroupType" : "Small Commercial",
+					"Transmission" : "Manual",
+					"VehModel" : "Peugeot Partner",
+					"BodyStyle" : "Unknown",
+					"Manufacturer" : "Peugeot",
+					"SimilarVehicles" : {
+						"SimilarVehicle" : [ "Peugeot Partner" ]
+					},
+					"PickUpLocationCode" : "H99",
+					"PhysicalLocationCode" : "LHR",
+					"DropOffLocationCode" : "H99",
+					"VehTypeText" : "Peugeot Partner",
+					"TransmissionEnum" : "Manual"
+				},
+				"Prices" : {
+					"Price" : [ {
+						"Duration" : 10,
+						"PaymentIndicator" : "post",
+						"PaymentDetailsRequired" : true,
+						"Base" : {
+							"Amount" : 465.76,
+							"Currency" : "GBP"
+						},
+						"Total" : {
+							"Amount" : 679.59,
+							"Currency" : "GBP"
+						},
+						"PostPayTotal" : {
+							"Amount" : 679.59,
+							"Currency" : "GBP"
+						},
+						"EstimatedTotalAmount" : {
+							"Amount" : 679.59,
+							"Currency" : "GBP"
+						},
+						"DistanceLimit" : {
+							"Unit" : "Mile",
+							"Number" : 2500
+						},
+						"Taxes" : {
+							"Detail" : [ {
+								"Amount" : 77.63,
+								"Currency" : "GBP",
+								"PayableLocally" : false
+							} ]
+						},
+						"Extras" : {
+							"PostPayTotal" : {
+								"Amount" : 213.83,
+								"Currency" : "GBP"
+							},
+							"PrePayTotal" : {
+								"Amount" : 0,
+								"Currency" : "GBP"
+							}
+						},
+						"Discounts" : null,
+						"Inclusions" : {
+							"Detail" : [ {
+								"Code" : "SUR",
+								"Name" : "Airport/city surcharge",
+								"IncludedInRate" : true,
+								"Description" : "This is a location surcharge for those rental locations with higher operating costs. For example, airports.",
+								"Amount" : 64.69,
+								"Currency" : "GBP",
+								"NotIncludedInCoverage" : false
+							}, {
+								"Code" : "TAX",
+								"Name" : "Local Tax",
+								"IncludedInRate" : true,
+								"Amount" : 12.94,
+								"Currency" : "GBP",
+								"NotIncludedInCoverage" : false
+							}, {
+								"Code" : "VRF",
+								"Name" : "Vehicle Registration Fee",
+								"IncludedInRate" : true,
+								"Description" : "The Vehicle Registration Fee is included in your quote before you book your vehicle and helps cover the cost of your hire vehicle's registration.",
+								"Amount" : 0.00,
+								"Currency" : "GBP",
+								"NotIncludedInCoverage" : false
+							}, {
+								"Code" : "TP",
+								"Name" : "Theft Cover",
+								"IncludedInRate" : true,
+								"Description" : "Theft Protection (TP) ensures you are covered if your vehicle is stolen. An excess applies, but this can be reduced significantly, or completely, if you select one of our Super Cover products.With this product, your vehicle's excess is £1,000.00. ",
+								"Amount" : 0.00,
+								"Currency" : "GBP",
+								"ExcessAmount" : 1000,
+								"ExcessCurrency" : "GBP",
+								"NotIncludedInCoverage" : false
+							}, {
+								"Code" : "CDW",
+								"Name" : "Damage Cover",
+								"IncludedInRate" : true,
+								"Description" : "Collision damage waiver (CDW) ensures you are covered if your vehicle is damaged and repairs are required. An excess per clearly separate incident of damage applies but this can be reduced significantly or completely if you select one of our vehicle cover products. Windscreen is only included when renting from Austria, Czech Republic, Germany, Switzerland, Denmark, Sweden and Norway. In Scandinavia, these products are called CDI --ar In other countries, windscreen cover can be added at the counter for a small fee. With this product, your vehicle's excess per clearly separate incident of damage is £1,000.00. ",
+								"Amount" : 0.00,
+								"Currency" : "GBP",
+								"ExcessAmount" : 1000,
+								"ExcessCurrency" : "GBP",
+								"NotIncludedInCoverage" : false
+							}, {
+								"Code" : "MILEAGE",
+								"Name" : "2500 mile",
+								"IncludedInRate" : true,
+								"Quantity" : 2500,
+								"Unit" : "mile",
+								"NotIncludedInCoverage" : false
+							} ]
+						},
+						"Exclusions" : {
+							"Detail" : [ {
+								"Code" : "MLG",
+								"Name" : "Price for additional kilometres/miles: £0.14/mile.",
+								"IncludedInRate" : false,
+								"Amount" : 0.14,
+								"Currency" : "GBP",
+								"NotIncludedInCoverage" : false
+							} ]
+						},
+						"Packages" : {
+							"Coverages" : {
+								"Detail" : [ {
+									"Code" : "TP",
+									"Name" : "Theft Excess",
+									"IncludedInRate" : true,
+									"Description" : "Theft Protection (TP) ensures you are covered if your vehicle is stolen. An excess applies, but this can be reduced significantly, or completely, if you select one of our Super Cover products.",
+									"Amount" : 0.00,
+									"Currency" : "GBP",
+									"ExcessAmount" : 1000,
+									"ExcessCurrency" : "GBP"
+								}, {
+									"Code" : "CDW",
+									"Name" : "Damage Excess",
+									"IncludedInRate" : true,
+									"Description" : "Collision damage waiver (CDW) ensures you are covered if your vehicle is damaged and repairs are required. An excess per clearly separate incident of damage applies but this can be reduced significantly or completely if you select one of our vehicle cover products. Windscreen is only included when renting from Austria, Czech Republic, Germany and Switzerland. In other countries, It can be added at the counter for a small fee.",
+									"Amount" : 0.00,
+									"Currency" : "GBP",
+									"ExcessAmount" : 1000,
+									"ExcessCurrency" : "GBP"
+								} ]
+							},
+							"Components" : {
+								"Detail" : [ {
+									"Code" : "CDW",
+									"Name" : "Damage Excess",
+									"Description" : "Collision damage waiver (CDW) ensures you are covered if your vehicle is damaged and repairs are required. An excess per clearly separate incident of damage applies but this can be reduced significantly or completely if you select one of our vehicle cover products. Windscreen is only included when renting from Austria, Czech Republic, Germany and Switzerland. In other countries, It can be added at the counter for a small fee. With this product, your vehicle's excess per clearly separate incident of damage is £1,000.00. ",
+									"Amount" : 0.00,
+									"Currency" : "GBP",
+									"ExcessAmount" : 1000,
+									"ExcessCurrency" : "GBP"
+								}, {
+									"Code" : "TP",
+									"Name" : "Theft Excess",
+									"Description" : "Theft Protection (TP) ensures you are covered if your vehicle is stolen. An excess applies, but this can be reduced significantly, or completely, if you select one of our Super Cover products.With this product, your vehicle's excess is £1,000.00. ",
+									"Amount" : 0.00,
+									"Currency" : "GBP",
+									"ExcessAmount" : 1000,
+									"ExcessCurrency" : "GBP"
+								} ]
+							}
+						},
+						"RateQualifier" : 90
+					} ]
+				},
+				"Extras" : {
+					"Extra" : [ {
+						"Image" : "/assets/build/Additional-Driver.gif",
+						"Code" : "ADD",
+						"Name" : "Additional Driver",
+						"Description" : "Share the ride ... add one or more additional drivers to your rental and each one will benefit from the main driver's damage/theft coverage. All drivers must bring along their licence at collection. The price quoted is charged per driver.",
+						"UnitPrice" : 12.99,
+						"PriceCap" : 0.0,
+						"PriceBasisId" : "Day",
+						"PriceBasis" : "per day",
+						"Currency" : "GBP",
+						"PayType" : "Pay Later",
+						"Quantity" : 1,
+						"IRLILink" : true,
+						"Total" : {
+							"Amount" : 129.9,
+							"Currency" : "GBP"
+						},
+						"Rates" : {
+							"Rate" : [ {
+								"Applies" : "extra",
+								"UnitPrice" : 12.99,
+								"priceBasis" : "Daily",
+								"Total" : {
+									"Amount" : 129.9,
+									"Currency" : "GBP"
+								}
+							}, {
+								"Applies" : "market",
+								"UnitPrice" : 12.99,
+								"priceBasis" : "Daily",
+								"Total" : {
+									"Amount" : 129.9,
+									"Currency" : "GBP"
+								}
+							}, {
+								"Applies" : "rate",
+								"UnitPrice" : 12.99,
+								"priceBasis" : "Daily",
+								"Total" : {
+									"Amount" : 129.9,
+									"Currency" : "GBP"
+								}
+							} ]
+						},
+						"IsIncludedInCoverage" : false,
+						"PaidQuantity" : 1
+					}, {
+						"Image" : "/assets/build/core/CSS1Y.jpg",
+						"Code" : "CSS<1Y",
+						"Name" : "Baby Seat",
+						"Description" : "This rearward-facing car seat protects babies aged up to 12 months weighing under 13kgs. Its deep, softly padded side wings add to your baby's safety and comfort, and the headrest and harness height can be adjusted. To secure, either connect the ISOFIX base or tighten a seat belt around the belted base, depending which seat you receive.",
+						"UnitPrice" : 11.99,
+						"PriceCap" : 0.0,
+						"PriceBasisId" : "Day",
+						"PriceBasis" : "per day",
+						"Currency" : "GBP",
+						"PayType" : "Pay Later",
+						"Quantity" : 1,
+						"IRLILink" : true,
+						"Total" : {
+							"Amount" : 83.93,
+							"Currency" : "GBP"
+						},
+						"Rates" : {
+							"Rate" : [ {
+								"Applies" : "extra",
+								"UnitPrice" : 11.99,
+								"priceBasis" : "Daily",
+								"Total" : {
+									"Amount" : 83.93,
+									"Currency" : "GBP"
+								}
+							}, {
+								"Applies" : "market",
+								"UnitPrice" : 11.99,
+								"priceBasis" : "Daily",
+								"Total" : {
+									"Amount" : 83.93,
+									"Currency" : "GBP"
+								}
+							}, {
+								"Applies" : "rate",
+								"UnitPrice" : 11.99,
+								"priceBasis" : "Daily",
+								"Total" : {
+									"Amount" : 83.93,
+									"Currency" : "GBP"
+								}
+							} ]
+						},
+						"IsIncludedInCoverage" : false,
+						"PaidQuantity" : 1
+					} ],
+					"PostPayTotal" : {
+						"Amount" : 213.83,
+						"Currency" : "GBP"
+					}
+				},
+				"IsCoverPackage" : true,
+				"CoverPackageDetail" : {
+					"Code" : "CP1",
+					"Name" : "Standard",
+					"DeltaPrice" : {
+						"Amount" : 0.00,
+						"Currency" : "GBP"
+					}
+				},
+				"Vendor" : {
+					"Code" : "ZI",
+					"ExtendedLocationCode" : null,
+					"ImagePath" : "/images/vehicle/logos/ZI.gif",
+					"Name" : "Avis"
+				},
+				"IsInclusive" : false
+			},
+			"CancelPenalty" : [ {
+				"Code" : "ZI_PCT_100",
+				"Percent" : 100,
+				"Applicable" : {
+					"Time" : 500,
+					"TimeUnit" : "Day",
+					"When" : "BeforeArrival"
+				}
+			}, {
+				"Code" : "ZI_POST_NOSHOW",
+				"Amount" : 40,
+				"CurrencyCode" : "GBP",
+				"Applicable" : {
+					"Time" : 500,
+					"TimeUnit" : "Day",
+					"When" : "AfterArrival"
+				}
+			} ]
+		}
+	}
+}
